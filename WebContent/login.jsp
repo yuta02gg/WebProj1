@@ -2,11 +2,11 @@
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
 	<meta charset="UTF-8">
 	<title>LOGIN</title>
-</head>
-<body>
+  </head>
+  <body>
 	<s:property value="username"/>さん、ようこそ！
-</body>
+  </body>
 </html>

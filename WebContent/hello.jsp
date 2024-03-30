@@ -2,11 +2,11 @@
 <%@ taglib prefix="s" uri="/struts-tags"%>
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset="utf-8">
     <title>HelloStruts</title>
-</head>
-<body>
+  </head>
+  <body>
     <h1>HelloStruts2!</h1>
-</body>
+  </body>
 </html>

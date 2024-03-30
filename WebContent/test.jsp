@@ -2,14 +2,14 @@
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset="UTF-8">
     <title>TEST</title>
-</head>
-<body>
+  </head>
+  <body>
     <br>
     <s:property value="username"/>
     <br>
     <s:property value="password"/>
-</body>
+  </body>
 </html>

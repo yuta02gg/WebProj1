@@ -2,11 +2,11 @@
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset="utf-8">
     <title>WELCOME</title>
-</head>
-<body>
+  </head>
+  <body>
     名前とパスワードを入力してください。
 
     <s:form method="post" action="LoginAction">
@@ -15,5 +15,5 @@
         <s:submit value="送信"/>
     </s:form>
 
-</body>
+   </body>
 </html>
